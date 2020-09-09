@@ -1,0 +1,12 @@
+vgg19  ---0.35
+vgg16-2  0.92
+vgg16-3  0.91
+vgg16-1   .075
+xception-1 0.69
+xception-2 0.70
+xception-3 0.75
+xception-4 0.77
+resnet50 0.53
+resnet50  ...0.71
+inception 0.69
+mobilenet  0.21
